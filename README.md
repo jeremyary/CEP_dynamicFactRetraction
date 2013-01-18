@@ -7,7 +7,11 @@ The executable portion for this proof of concept resides in test case:
 https://github.com/jeremyary/CEP_dynamicFactRetraction/blob/master/src/test/groovy/jary/CepConceptsIntegrationTest.groovy
 
 Language: Groovy
+
 Dependency: Gradle
+
 Frameworks: Spring
+
 Logging: Slf4j with logback
+
 Testing: JUnit
