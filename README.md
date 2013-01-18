@@ -8,7 +8,7 @@ https://github.com/jeremyary/CEP_dynamicFactRetraction/blob/master/src/test/groo
 
 Language: Groovy
 
-Dependency: Gradle
+Dependency Mgmt: Gradle
 
 Frameworks: Spring
 
